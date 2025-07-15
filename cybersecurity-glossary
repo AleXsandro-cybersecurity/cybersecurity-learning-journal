@@ -1,0 +1,29 @@
+# Cybersecurity-glossary:
+
+A collection of key terms and concepts I've learned.
+
+---
+
+**Offensive Security**
+This is also called Red Team. It involves breaking into computer systems, exploiting software bugs and finding loopholes in applications to gain unauthorized access. You take the role of the hacker/attacker to improve security.
+"To outsmart a hacker you need to think like one"
+
+**Defensive Security**
+Prevents intrusions from occuring, detecting intrusions when they occur and responding properly. Some tasks they have to do are:
+- User cyber security awareness.
+- Documenting and managing assets.
+- Updating and patching systems.
+- Settings up preventative security devices.
+- Setting up logging and monitoring devices.
+
+**Security Operations Center (SOC)**
+its a team of cyber security profesionals that monitors the network and its systems to detect malicious cybersecurity events. Some things they have to find are:
+- Vulnarabilities
+- Policy Violations 
+- Unauthorized activity
+- Network Intrusion
+- Threat Intelligence 
+
+**Threat Intelligence**
+
+
